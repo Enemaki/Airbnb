@@ -72,10 +72,10 @@ section {
 }
 
 /* ADD */
-/* .card--title {
+.card--title {
     overflow: hidden;
     text-overflow: ellipsis;
-} */
+}
 
 .card--stats {
     display: flex;
